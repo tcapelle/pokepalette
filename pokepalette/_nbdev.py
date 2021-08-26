@@ -2,8 +2,7 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"pokemon_colours_dict": "00_core.ipynb",
-         "load_pokemon_colours": "00_core.ipynb",
+index = {"load_pokemon_colours": "00_core.ipynb",
          "PokemonColours": "00_core.ipynb",
          "get_colormap": "00_core.ipynb"}
 
