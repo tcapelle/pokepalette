@@ -46,15 +46,7 @@ pokepalette.PokemonColours.pikachu
 
 ```python
 pikachu_cmap = pokepalette.get_colormap('pikachu')
-pikachu_cmap
 ```
-
-
-
-
-<div style="vertical-align: middle;"><strong>from_list</strong> </div><div class="cmap"><img alt="from_list colormap" title="from_list" style="border: 1px solid #555;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAABACAYAAABsv8+/AAAAGHRFWHRUaXRsZQBmcm9tX2xpc3QgY29sb3JtYXBDL89FAAAAHnRFWHREZXNjcmlwdGlvbgBmcm9tX2xpc3QgY29sb3JtYXABtCnOAAAAMHRFWHRBdXRob3IATWF0cGxvdGxpYiB2My40LjEsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmeZO9WOAAAAMnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHYzLjQuMSwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZ7edSqkAAAGOSURBVHic7dahTYNRAIXRHwwCg0UiYQRkwwLdpa62WxAkayBxIEE2CJIugIYJXiWvyXfOBDdXfWc/3+vf5ZR9vs9eMHT58DV7wtDjevaC41ar2QvGdk8XsycM7a9O+LhlWQ6H/ewJQx9v29kThl7vNrMnHHVzfzt7wtD188vsCUObzW72hKPOZw8AAP6fAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQ9Ac84BPlrGzsiQAAAABJRU5ErkJggg=="></div><div style="vertical-align: middle; max-width: 514px; display: flex; justify-content: space-between;"><div style="float: left;"><div title="#f5e551ff" style="display: inline-block; width: 1em; height: 1em; margin: 0; vertical-align: middle; border: 1px solid #555; background-color: #f5e551ff;"></div> under</div><div style="margin: 0 auto; display: inline-block;">bad <div title="#00000000" style="display: inline-block; width: 1em; height: 1em; margin: 0; vertical-align: middle; border: 1px solid #555; background-color: #00000000;"></div></div><div style="float: right;">over <div title="#727282ff" style="display: inline-block; width: 1em; height: 1em; margin: 0; vertical-align: middle; border: 1px solid #555; background-color: #727282ff;"></div></div>
-
-
 
 You can plot passing the `pikachu` colors directly
 
