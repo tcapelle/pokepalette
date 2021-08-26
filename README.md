@@ -2,6 +2,8 @@
 > A simple pokemon color chooser
 
 
+"![CI](https://github.com/tcapelle/pokepalette/workflows/CI/badge.svg) [![PyPI](https://img.shields.io/pypi/v/pokepalette?color=blue&label=pypi%20version)](https://pypi.org/project/pokepalette/#description) 
+
 ![image.png](nbs/images/pokepalette.jpeg)
 This repo is based on [CDWimmer/PokePalette](https://github.com/CDWimmer/PokePalette) 
 
@@ -66,7 +68,7 @@ plt.show()
 ```
 
 
-![png](docs/images/output_9_0.png)
+![png](docs/images/output_10_0.png)
 
 
 or passing the corresponding matplotlib's colormap
@@ -85,5 +87,5 @@ plt.show()
 ```
 
 
-![png](docs/images/output_11_0.png)
+![png](docs/images/output_12_0.png)
 
