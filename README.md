@@ -1,8 +1,9 @@
 # pokepalette
-> A simple pokemon color sampler
+> A simple pokemon color chooser
 
 
-This is based on [CDWimmer/PokePalette](https://github.com/CDWimmer/PokePalette)
+![image.png](nbs/images/pokepalette.jpeg)
+This repo is based on [CDWimmer/PokePalette](https://github.com/CDWimmer/PokePalette) 
 
 ## Install
 
