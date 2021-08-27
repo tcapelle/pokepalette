@@ -5,7 +5,9 @@
 "![CI](https://github.com/tcapelle/pokepalette/workflows/CI/badge.svg) [![PyPI](https://img.shields.io/pypi/v/pokepalette?color=blue&label=pypi%20version)](https://pypi.org/project/pokepalette/#description) 
 
 ![image.png](nbs/images/pokepalette.jpeg)
-This repo is based on [CDWimmer/PokePalette](https://github.com/CDWimmer/PokePalette) 
+This repo is based on [CDWimmer/PokePalette](https://github.com/CDWimmer/PokePalette) and was originated from [this tweet](https://twitter.com/kevinsblake/status/1430165974662193159).
+
+If you don't remember your favourite pokemon, you can check them here: https://pokepalettes.com/
 
 ## Install
 
@@ -89,3 +91,5 @@ plt.show()
 
 ![png](docs/images/output_12_0.png)
 
+
+built with [nbdev](https://github.com/fastai/nbdev)
